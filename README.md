@@ -8,10 +8,12 @@
 
    <hr> <br>
 
-   **<h2> Comandos</h2>** <br>
+   **<h2> Containers </h2>** <br>
+  
+   **<h2> Imagens </h2>** <br>
 
-   |Comando  | Explicação   |
-   |:---------:| :-----------:|
-   |docker ps ou docker container ls| Exibe todos os container executados atualmente|
+   **<h2> Volumes </h2>** <br>
+  
+   **<h2> Networks </h2>** <br>
 
 </div>

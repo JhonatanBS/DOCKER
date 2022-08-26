@@ -11,6 +11,10 @@
    <hr> <br>
 
    **<h2> Containers </h2>** <br>
+   
+   ~~~
+   docker container ls
+   ~~~
   
    **<h2> Imagens </h2>** <br>
 
